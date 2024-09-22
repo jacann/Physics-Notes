@@ -1,11 +1,11 @@
 # AP Physics C Notes
  TI-Nspire Notes for the AP Physics C: Mechanics & AP Physics C: Electricity and Magnetism Courses. Typically updated by the Monday following a unit test.
 
- ![image](https://github.com/user-attachments/assets/e11688c8-1dfb-4f71-a299-ea3e08920d92)
+ <!--![image](https://github.com/user-attachments/assets/e11688c8-1dfb-4f71-a299-ea3e08920d92)
  ![image](https://github.com/user-attachments/assets/a5b8491b-0d4d-4466-b716-2d48a586038c)
- ![image](https://github.com/user-attachments/assets/5eba9dfa-2b7e-44aa-a033-205277cca435)
+ ![image](https://github.com/user-attachments/assets/5eba9dfa-2b7e-44aa-a033-205277cca435)-->
 
- 
+ <img src="Screen Captures/1-kinematics-v3.1.png" width="250"> <img src="Screen Captures/2-dynamics-v3.1.png" width="250"> <img src="Screen Captures/3-work-energy-power-v3.1.png" width="250">
 
 
 ## Instructions
@@ -20,7 +20,7 @@
 ## Nspire Tips
 - Use Documents & Problems to organize your math & notes.
  - I recommend one Document per unit, with one Problem"for each problem on the unit's problem set.
- - After downloading these notes to your Nspire, copy the pages of the document into the last Problem in your current unit's document. This way you can quickly reference the notes while doing classwork or taking the unit test.
+ - After downloading these notes to your Nspire, copy the pages of the document into the last Problem in your current unit's document. This way you can quickly reference the notes while doing classwork.
 - Use ctrl and the D-Pad to quickly switch between pages in a document.
 
  ## Filename & Version Structure

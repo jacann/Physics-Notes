@@ -30,6 +30,9 @@
  
  Example: "Notes-4.2.0.tns" is the second revision of notes updated for Unit 4.
 
+ ## New Release Notifications
+ You can get notifications of new releases straight to your email with https://newreleases.io.
+
  ## License
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]

@@ -17,6 +17,9 @@
 6. Select the .tns file you just downloaded.
 7. A confirmation that the document was recieved will appear on your calculator, and you'll be all done! :)
 
+ ## New Release Notifications
+ Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd7lcflaNIltcKtA-VxoYjbHSraGP0o1nPdBeziJbHvBvsqpg/viewform?usp=sf_link) if you'd like to get updates sent straight to your inbox!
+
 ## Nspire Tips
 - Use Documents & Problems to organize your math & notes.
  - I recommend one Document per unit, with one Problem for each problem on the unit's problem set.
@@ -29,9 +32,6 @@
  Revisions modify content, minor revisions only modify cosmetics and formatting.
  
  Example: "Notes-4.2.0.tns" is the second revision of notes updated for Unit 4.
-
- ## New Release Notifications
- You can get notifications of new releases straight to your email with https://newreleases.io.
 
  ## License
 

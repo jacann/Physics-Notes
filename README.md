@@ -2,7 +2,7 @@
  TI-Nspire Notes for the AP Physics C: Mechanics and AP Physics C: Electricity and Magnetism Courses. Typically updated by the Monday following a test.
 
  ## Filename & Version Structure
- Filename: "Notes \[Unit-#\].\[Revision-#\]"
+ Filename: "Notes \[Unit-#\].\[Revision-#\].tns"
  
  So "Notes 4.2" means updated for Unit 4, second revision.
 

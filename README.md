@@ -17,7 +17,7 @@
 - Use ctrl and the D-Pad to quickly switch between pages in a document.
 
  ## Filename & Version Structure
- Filename: "Notes \[Unit-#\].\[Revision-#\].tns"
+ Filename: "Notes-\[Unit-#\].\[Revision-#\].tns"
  
  So "Notes 4.2.tns" is the second revision of notes updated for Unit 4.
 

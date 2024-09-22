@@ -4,7 +4,7 @@
  ## Filename & Version Structure
  Filename: "Notes \[Unit-#\].\[Revision-#\].tns"
  
- So "Notes 4.2" means updated for Unit 4, second revision.
+ So "Notes 4.2.tns" is the second revision of notes updated for Unit 4.
 
  ## License
 

@@ -4,6 +4,10 @@
 ## Instructions
 To be added...
 
+## Nspire Tips
+- Use Documents
+- Use ctrl + d-pad to quickly switch between documents
+
  ## Filename & Version Structure
  Filename: "Notes \[Unit-#\].\[Revision-#\].tns"
  

@@ -2,11 +2,19 @@
  TI-Nspire Notes for the AP Physics C: Mechanics & AP Physics C: Electricity and Magnetism Courses. Typically updated by the Monday following a unit test.
 
 ## Instructions
-To be added...
+1. Download the file named "Notes-[Unit].[Revision].tns" from the Releases section of this page.
+2. Open https://nspireconnect.ti.com in Google Chrome (other browsers will not work).
+3. Connect your Nspire to your computer using a USB cable.
+4. Select your calculator from the pop-up menu, and click "Connect."
+5. Click "Transfer File," then "To Calculator," then "From Computer."
+6. Select the .tns file you just downloaded.
+7. A confirmation that the document ws recieved will appear on your calculator, and you'll be all done! :)
 
 ## Nspire Tips
-- Use Documents
-- Use ctrl + d-pad to quickly switch between pages in a document.
+- Use Documents to organize your math & notes.
+ - I recommend one document per unit, with one Nspire "Problem" for each problem on the probelm set, day, and test.
+ - After downloading these notes to your Nspire, copy the problem into the last Problem in your current unit's document. This way you can quickly reference the notes while doing classwork or taking the unit test.
+- Use ctrl and the D-Pad to quickly switch between pages in a document.
 
  ## Filename & Version Structure
  Filename: "Notes \[Unit-#\].\[Revision-#\].tns"

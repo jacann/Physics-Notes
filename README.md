@@ -1,7 +1,5 @@
 # AP Physics C Notes
- TI-Nspire Notes for the AP Physics C: Mechanics & AP Physics C: Electricity and Magnetism Courses. 
- 
- Typically updated by the Monday following a unit test.
+ TI-Nspire Notes for the AP Physics C: Mechanics & AP Physics C: Electricity and Magnetism Courses. Typically updated by the Monday following a unit test.
 
 ## Instructions
 1. Download the file named "Notes-[Unit].[Revision].tns" from the Releases section of this page.

@@ -9,7 +9,7 @@
 
 
 ## Instructions
-1. Download the file named "Notes-[Unit].[Revision].[Minor-Revision].tns" from the Releases section of this page.
+1. Download the file named "Notes-[Unit].[Revision].[Minor-Revision].tns" from the [Releases section](https://github.com/jacann/Physics-Notes/releases/latest) of this page.
 2. Open https://nspireconnect.ti.com in Google Chrome (other browsers will not work).
 3. Connect your Nspire to your computer using a USB cable.
 4. Select your calculator from the pop-up menu, and click "Connect."

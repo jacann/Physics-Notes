@@ -1,5 +1,5 @@
 # AP Physics C: Mechanics Notes
- TI-Nspire Notes for the AP Physics C: Mechanics. I'll do my best to update them with new content by the Monday following each unit test, and as we learn new equations. You can contact me at jannes@cps.edu with any suggestions or feedback.
+ TI-Nspire Notes for the AP Physics C: Mechanics. I'll do my best to update them with new content by the Monday following each unit test, and as we learn new equations.
 
  <!--![image](https://github.com/user-attachments/assets/e11688c8-1dfb-4f71-a299-ea3e08920d92)
  ![image](https://github.com/user-attachments/assets/a5b8491b-0d4d-4466-b716-2d48a586038c)

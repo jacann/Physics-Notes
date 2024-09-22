@@ -1,7 +1,7 @@
 # Physics Notes
  TI-Nspire Notes for the AP Physics C: Mechanics and AP Physics C: Electricity and Magnetism Courses. Typically updated by the Monday following a test.
 
- Version/Filename Structure: "Notes \[Unit\].\[In-Unit-Update\]"
+ Version/Filename Structure: "Notes \[Unit-#\].\[During-Unit-Update-#\]"
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 

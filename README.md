@@ -11,9 +11,9 @@
 7. A confirmation that the document was recieved will appear on your calculator, and you'll be all done! :)
 
 ## Nspire Tips
-- Use Documents to organize your math & notes.
- - I recommend one document per unit, with one Nspire "Problem" for each problem on the probelm set, day, and test.
- - After downloading these notes to your Nspire, copy the problem into the last Problem in your current unit's document. This way you can quickly reference the notes while doing classwork or taking the unit test.
+- Use Documents & Problems to organize your math & notes.
+ - I recommend one Document per unit, with one Problem"for each problem on the unit's problem set.
+ - After downloading these notes to your Nspire, copy the pages of the document into the last Problem in your current unit's document. This way you can quickly reference the notes while doing classwork or taking the unit test.
 - Use ctrl and the D-Pad to quickly switch between pages in a document.
 
  ## Filename & Version Structure

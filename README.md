@@ -8,7 +8,7 @@
 4. Select your calculator from the pop-up menu, and click "Connect."
 5. Click "Transfer File," then "To Calculator," then "From Computer."
 6. Select the .tns file you just downloaded.
-7. A confirmation that the document ws recieved will appear on your calculator, and you'll be all done! :)
+7. A confirmation that the document was recieved will appear on your calculator, and you'll be all done! :)
 
 ## Nspire Tips
 - Use Documents to organize your math & notes.

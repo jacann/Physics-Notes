@@ -6,6 +6,8 @@
  
  So "Notes 4.2" means updated for Unit 4, second revision.
 
+ ## License
+
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 This work is licensed under a

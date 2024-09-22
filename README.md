@@ -6,7 +6,7 @@ To be added...
 
 ## Nspire Tips
 - Use Documents
-- Use ctrl + d-pad to quickly switch between documents
+- Use ctrl + d-pad to quickly switch between pages in a document.
 
  ## Filename & Version Structure
  Filename: "Notes \[Unit-#\].\[Revision-#\].tns"

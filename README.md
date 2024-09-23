@@ -5,7 +5,7 @@
  ![image](https://github.com/user-attachments/assets/a5b8491b-0d4d-4466-b716-2d48a586038c)
  ![image](https://github.com/user-attachments/assets/5eba9dfa-2b7e-44aa-a033-205277cca435)-->
 
- <img src="Screen Captures/1-kinematics-v3.1.png" width="250"> <img src="Screen Captures/2-dynamics-v3.1.png" width="250"> <img src="https://github.com/user-attachments/assets/20be975b-f044-4a3c-b8c9-aa74c92a4591" width="250">
+ <img src="Screen Captures/1-v-3-2-0.png" width="250"> <img src="Screen Captures/2-v-3-2-0.png" width="250"> <img src="Screen Captures/3-v-3-2-0.png" width="250">
 
 ## Instructions
 1. Download the file named "Notes-v[Unit].[Revision].[Minor-Revision].tns" from the [Releases section](https://github.com/jacann/Physics-Notes/releases/latest) of this page.

@@ -10,7 +10,7 @@
 ## Instructions
 1. Download the file named "Notes-v[Unit].[Revision].[Minor-Revision].tns" from the [Releases section](https://github.com/jacann/Physics-Notes/releases/latest) of this page.
 2. Open https://nspireconnect.ti.com in Google Chrome (other browsers will not work).
-3. Connect your Nspire to your computer using a USB cable.
+3. Connect your Nspire to your computer using a USB cable (the one you use to charge it will work).
 4. Select your calculator from the pop-up menu, and click "Connect."
 5. Click "Transfer File," then "To Calculator," then "From Computer."
 6. Select the .tns file you just downloaded.

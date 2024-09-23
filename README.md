@@ -9,7 +9,7 @@
 
 
 ## Instructions
-1. Download the file named "Notes-[Unit].[Revision].[Minor-Revision].tns" from the [Releases section](https://github.com/jacann/Physics-Notes/releases/latest) of this page.
+1. Download the file named "Notes-v[Unit].[Revision].[Minor-Revision].tns" from the [Releases section](https://github.com/jacann/Physics-Notes/releases/latest) of this page.
 2. Open https://nspireconnect.ti.com in Google Chrome (other browsers will not work).
 3. Connect your Nspire to your computer using a USB cable.
 4. Select your calculator from the pop-up menu, and click "Connect."
@@ -27,11 +27,11 @@
 - Use ctrl and the D-Pad to quickly switch between pages in a document.
 
  ## Filename & Version Structure
- Filename: "Notes-[Unit-#].[Revision-#].[Minor-Revision-#].tns"
+ Filename: "Notes-v[Unit-#].[Revision-#].[Minor-Revision-#].tns"
 
  Revisions modify content, minor revisions only modify cosmetics and formatting.
  
- Example: "Notes-4.2.0.tns" is the second revision of notes updated for Unit 4.
+ Example: "Notes-v4.2.0.tns" is the second revision of notes updated for Unit 4.
 
  ## License
 

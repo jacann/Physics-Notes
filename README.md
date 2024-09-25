@@ -10,7 +10,7 @@
   
 -->
 
- <img src="Screen Captures/v3.3.0/3-1.jpg"> <img src="Screen Captures/v3.3.0/3-2.jpg" width="250">
+ <img src="Screen Captures/v3.3.0/3-1.jpg"> <img src="Screen Captures/v3.3.0/3-2.jpg">
  
 
 ## Instructions

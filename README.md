@@ -5,12 +5,12 @@
  ![image](https://github.com/user-attachments/assets/a5b8491b-0d4d-4466-b716-2d48a586038c)
  ![image](https://github.com/user-attachments/assets/5eba9dfa-2b7e-44aa-a033-205277cca435)-->
 
- <img src="Screen Captures/1-kinematics-v3.1.png" width="250"> <img src="Screen Captures/2-dynamics-v3.1.png" width="250"> <img src="https://github.com/user-attachments/assets/20be975b-f044-4a3c-b8c9-aa74c92a4591" width="250">
+ <img src="Screen Captures/1-v3-2-0.jpg" width="250"> <img src="Screen Captures/2-v3-2-0.jpg" width="250"> <img src="Screen Captures/3-v3-2-0.jpg" width="250">
 
 ## Instructions
 1. Download the file named "Notes-v[Unit].[Revision].[Minor-Revision].tns" from the [Releases section](https://github.com/jacann/Physics-Notes/releases/latest) of this page.
 2. Open https://nspireconnect.ti.com in Google Chrome (other browsers will not work).
-3. Connect your Nspire to your computer using a USB cable.
+3. Connect your Nspire to your computer using a USB cable (the one you use to charge it will work).
 4. Select your calculator from the pop-up menu, and click "Connect."
 5. Click "Transfer File," then "To Calculator," then "From Computer."
 6. Select the .tns file you just downloaded.

@@ -1,11 +1,17 @@
 # AP Physics C: Mechanics Notes
  TI-Nspire Notes for the AP Physics C: Mechanics course. I'll do my best to update them with new content by the Monday following each unit test, and as we learn new equations.
 
- <!--![image](https://github.com/user-attachments/assets/e11688c8-1dfb-4f71-a299-ea3e08920d92)
+ <!--
+ 
+ ![image](https://github.com/user-attachments/assets/e11688c8-1dfb-4f71-a299-ea3e08920d92)
  ![image](https://github.com/user-attachments/assets/a5b8491b-0d4d-4466-b716-2d48a586038c)
- ![image](https://github.com/user-attachments/assets/5eba9dfa-2b7e-44aa-a033-205277cca435)-->
+ ![image](https://github.com/user-attachments/assets/5eba9dfa-2b7e-44aa-a033-205277cca435)
+  <img src="Screen Captures/3-v3-2-0.jpg" width="250">
+  
+-->
 
- <img src="Screen Captures/1-v3-2-0.jpg" width="250"> <img src="Screen Captures/2-v3-2-0.jpg" width="250"> <img src="Screen Captures/3-v3-2-0.jpg" width="250">
+ <img src="Screen Captures/v3.3.0/3-1.jpg"> <img src="Screen Captures/v3.3.0/3-2.jpg" width="250">
+ 
 
 ## Instructions
 1. Download the file named "Notes-v[Unit].[Revision].[Minor-Revision].tns" from the [Releases section](https://github.com/jacann/Physics-Notes/releases/latest) of this page.
